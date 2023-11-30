@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matpet00
-- 👀 I’m interested in Python and finding junior position in the QA, programming field. I come from networking background with 9 years of experience in leadership. 
+- 👀 I’m interested in Python and Javascript I come from networking background with 9 years of experience in leadership. 
 - 📫 You can reach me via linkedin https://www.linkedin.com/in/petr-mat%C4%9Bj%C4%8Dek-394b2ba3/ or email matejcekpetr1@gmail.com
 
 <!---
